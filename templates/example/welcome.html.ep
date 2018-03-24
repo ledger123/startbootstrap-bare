@@ -1,13 +1,105 @@
 % layout 'default';
 % title 'Welcome';
-<h2><%= $msg %></h2>
-<p>
-  This page was generated from the template "templates/example/welcome.html.ep"
-  and the layout "templates/layouts/default.html.ep",
-  <%= link_to 'click here' => url_for %> to reload the page or
-  <%= link_to 'here' => '/index.html' %> to move forward to a static page.
-  % if (config 'perldoc') {
-    To learn more, you can also browse through the documentation
-    <%= link_to 'here' => '/perldoc' %>.
-  % }
-</p>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!--Carousel Wrapper-->
+      <div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+          <!--Indicators-->
+          <ol class="carousel-indicators">
+              <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-example-2" data-slide-to="1"></li>
+              <li data-target="#carousel-example-2" data-slide-to="2"></li>
+          </ol>
+          <!--/.Indicators-->
+          <!--Slides-->
+          <div class="carousel-inner" role="listbox">
+
+              <div class="carousel-item active">
+                  <div class="view">
+                      <img class="d-block w-100" src="photos/s1.jpg" alt="First slide">
+                      <div class="mask rgba-black-light-disable"></div>
+                  </div>
+                  <div class="carousel-caption">
+                      <h3 class="h3-responsive">Savoey Hotel, Lahore</h3>
+                      <p>Where Luxury meets afforability</p>
+                  </div>
+              </div>
+
+              <div class="carousel-item">
+                  <!--Mask color-->
+                  <div class="view">
+                      <img class="d-block w-100" src="photos/s2.jpg" alt="Second slide">
+                      <div class="mask rgba-black-strong-disable"></div>
+                  </div>
+              </div>
+
+              <div class="carousel-item">
+                  <!--Mask color-->
+                  <div class="view">
+                      <img class="d-block w-100" src="photos/s3.jpg" alt="Third slide">
+                      <div class="mask rgba-black-slight-disable"></div>
+                  </div>
+              </div>
+
+          </div>
+          <!--/.Slides-->
+          <!--Controls-->
+          <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+          </a>
+          <!--/.Controls-->
+      </div>
+      <!--/.Carousel Wrapper-->
+
+
+
+
+
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h1 class="mt-5">Welcome to Saveoy Hotel, Lahore</h1>
+          <p class="lead">Where luxury meets afforability</p>
+          <p>Smart hotel is well reputed and established budget hotel located in the posh area of Liberty Market, Gulberg, Lahore. We have tastefully decorated and aesthetically pleasing rooms, a restaurant and a meeting hall to cater personal and business traveling needs. We come with all standard amenities like minibar, wifi and complimentary breakfasts for all guests. Explore us through this website or make an online reservation. We shall get back to you immediately.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h1 class="mt-5">Our Services</h1>
+          <p class="lead">Our services</p>
+        </div>
+      </div>
+      <style>
+       img {
+          width: 200px;
+          display: block;
+       }
+      </style>
+      <section class="container" id="services">
+        <div class="row">
+          <article class="col">
+            <img class="mx-auto" src="photos/s1.jpg" alt="icon">
+            <h3>Accomodation</h3>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+          </article>
+          <article class="col">
+            <img class="mx-auto" src="photos/s2.jpg" alt="icon">
+            <h3>Meetings</h3>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+          </article>
+          <article class="col">
+            <img class="mx-auto" src="photos/s3.jpg" alt="icon">
+            <h3>Dining</h3>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+          </article>
+        </div>
+      </section>
+    </div>
+
+

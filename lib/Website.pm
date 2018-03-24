@@ -16,6 +16,8 @@ sub startup {
 
   # Normal route to controller
   $r->get('/')->to('pages#home');
+  $r->get('/rooms')->to('pages#rooms');
+  $r->get('/contactus')->to('pages#contactus');
 }
 
 1;

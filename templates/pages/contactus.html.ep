@@ -1,0 +1,20 @@
+% layout 'default';
+% title 'Welcome';
+
+    <!-- Page Content -->
+    <div class="container">
+
+
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <p>&nbsp;</p>
+          <h1 class="mt-5">Welcome to Saveoy Hotel, Lahore</h1>
+          <p class="lead">Where luxury meets afforability</p>
+          <p>Smart hotel is well reputed and established budget hotel located in the posh area of Liberty Market, Gulberg, Lahore. We have tastefully decorated and aesthetically pleasing rooms, a restaurant and a meeting hall to cater personal and business traveling needs. We come with all standard amenities like minibar, wifi and complimentary breakfasts for all guests. Explore us through this website or make an online reservation. We shall get back to you immediately.</p>
+        </div>
+      </div>
+
+
+   </div>
+
+

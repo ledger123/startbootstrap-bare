@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Material Design Bootstrap</title>
+    <title>Savoey Hotel, Lahore</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap core CSS -->
@@ -22,25 +22,34 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">Start Bootstrap</a>
+        <a class="navbar-brand" href="#">Savoey Hotel, Lahore</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="#">Home
+              <a class="nav-link" href=<%= $c->url_for('/') %>>Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href=<%= $c->url_for('/rooms') %>> Suites and Rooms</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Services</a>
+              <a class="nav-link" href=<%= $c->url_for('/finedining') %>>Fine Dining</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
+              <a class="nav-link" href=<%= $c->url_for('/meetings') %>>Meetings and Banquets</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href=<%= $c->url_for('/healthclub') %>>Health Club</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href=<%= $c->url_for('/reservation') %>>Reservation</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href=<%= $c->url_for('/contactus') %>>Contact Us</a>
             </li>
           </ul>
         </div>

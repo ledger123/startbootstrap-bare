@@ -1,11 +1,11 @@
-package Website::Controller::Example;
+package Website::Controller::Pages;
 use Mojo::Base 'Mojolicious::Controller';
 
 # This action will render a template
-sub welcome {
+sub home {
   my $self = shift;
 
-  # Render template "example/welcome.html.ep" with message
+  # Render template "pages/home.html.ep" with message
   $self->render(msg => 'Welcome to the Mojolicious real-time web framework!');
 }
 

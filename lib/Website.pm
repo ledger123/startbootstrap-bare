@@ -17,7 +17,12 @@ sub startup {
   # Normal route to controller
   $r->get('/')->to('pages#home');
   $r->get('/rooms')->to('pages#rooms');
+  $r->get('/finedining')->to('pages#finedining');
+  $r->get('/meetings')->to('pages#meetings');
+  $r->get('/healthclub')->to('pages#healthclub');
+  $r->get('/reservation')->to('pages#reservation');
   $r->get('/contactus')->to('pages#contactus');
+
 }
 
 1;

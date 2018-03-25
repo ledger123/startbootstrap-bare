@@ -5,12 +5,14 @@
     <div class="container">
 
       <!--Carousel Wrapper-->
-      <div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+      <div id="slider1" class="carousel slide carousel-fade" data-ride="carousel">
           <!--Indicators-->
           <ol class="carousel-indicators">
-              <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
-              <li data-target="#carousel-example-2" data-slide-to="1"></li>
-              <li data-target="#carousel-example-2" data-slide-to="2"></li>
+              <li data-target="#slider1" data-slide-to="0" class="active"></li>
+              <li data-target="#slider1" data-slide-to="1"></li>
+              <li data-target="#slider1" data-slide-to="2"></li>
+              <li data-target="#slider1" data-slide-to="3"></li>
+              <li data-target="#slider1" data-slide-to="4"></li>
           </ol>
           <!--/.Indicators-->
           <!--Slides-->
@@ -18,7 +20,7 @@
 
               <div class="carousel-item active">
                   <div class="view">
-                      <img class="d-block w-100" src="photos/s1.jpg" alt="First slide">
+                      <img class="d-block w-100" src="photos/slider/savoey-hotel-lahore-70D-2018-02-16-223.jpg" alt="First slide">
                       <div class="mask rgba-black-light-disable"></div>
                   </div>
                   <div class="carousel-caption">
@@ -30,7 +32,7 @@
               <div class="carousel-item">
                   <!--Mask color-->
                   <div class="view">
-                      <img class="d-block w-100" src="photos/s2.jpg" alt="Second slide">
+                      <img class="d-block w-100" src="photos/reception/savoey-hotel-lahore-6D-2018-02-17-449.jpg" alt="Second slide">
                       <div class="mask rgba-black-strong-disable"></div>
                   </div>
               </div>
@@ -38,7 +40,23 @@
               <div class="carousel-item">
                   <!--Mask color-->
                   <div class="view">
-                      <img class="d-block w-100" src="photos/s3.jpg" alt="Third slide">
+                      <img class="d-block w-100" src="photos/reception/savoey-hotel-lahore-6D-2018-02-17-456.jpg" alt="Second slide">
+                      <div class="mask rgba-black-strong-disable"></div>
+                  </div>
+              </div>
+
+              <div class="carousel-item">
+                  <!--Mask color-->
+                  <div class="view">
+                      <img class="d-block w-100" src="photos/slider/savoey-hotel-lahore-6D-2018-02-17-044.jpg" alt="Third slide">
+                      <div class="mask rgba-black-slight-disable"></div>
+                  </div>
+              </div>
+
+              <div class="carousel-item">
+                  <!--Mask color-->
+                  <div class="view">
+                      <img class="d-block w-100" src="photos/slider/savoey-hotel-lahore-6D-2018-02-17-112.jpg" alt="Third slide">
                       <div class="mask rgba-black-slight-disable"></div>
                   </div>
               </div>
@@ -46,11 +64,11 @@
           </div>
           <!--/.Slides-->
           <!--Controls-->
-          <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#slider1" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
           </a>
-          <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#slider1" role="button" data-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
           </a>
@@ -66,7 +84,17 @@
         <div class="col-lg-12 text-center">
           <h1 class="mt-5">Welcome to Saveoy Hotel, Lahore</h1>
           <p class="lead">Where luxury meets afforability</p>
-          <p>Smart hotel is well reputed and established budget hotel located in the posh area of Liberty Market, Gulberg, Lahore. We have tastefully decorated and aesthetically pleasing rooms, a restaurant and a meeting hall to cater personal and business traveling needs. We come with all standard amenities like minibar, wifi and complimentary breakfasts for all guests. Explore us through this website or make an online reservation. We shall get back to you immediately.</p>
+          <p class="lead">Welcome to Savoey Lahore - where luxury meets affordability. Located in the heart of Lahore, this 4 Star hotel is well known for its unique ambience where ethnicity and modernism unite to give you world-class staying experience. Brimming with all the facilities which make your stay perfect in every sense, our vision, values and services ensure your time with us turns into the most memorable experience of your life. From its prime location to its superior services, mouthwatering cuisines to the aesthetic interiors, everything about Savoey is unique. At Savoey every guest is given personal attention by our staffs and looked after in a way beyond his expectation. </p>
+          <p>Exceeding guest expectations is our vision and this is what turns your experience at Savoey a memory to cherish forever. With as many as 77 deluxe rooms equipped with all up-to-the-minute facilities, we make sure there is nothing that our prestigious guests remain deprived of during their stay with us. We also offer Luxury Deluxe and Executive Suites to cater for the needs of our guests who need EXTRA tranquility and lavishness.</p>
+
+          <h2 class="mt-5">Why Savoey?</h2>
+          <ul>
+          <li>We are located at 15 minute drive from Allama Iqbal International Airport.
+            <li>Worldly renowned Liberty Market of Gulberg is conveniently in close proximity.
+              <li>International Cricket, Football and Hockey are located near the hotel.
+                <li>Banks, Post office, travel agents, tour operators, and pharmacies are located in the environs of the hotel.
+                  <li>We offer affordable and customized packages
+          </ul>
         </div>
       </div>
       <div class="row">
@@ -84,17 +112,17 @@
       <section class="container" id="services">
         <div class="row">
           <article class="col">
-            <img class="mx-auto" src="photos/s1.jpg" alt="icon">
+            <img class="mx-auto" src="photos/roomtypes/Executive-twin-6.jpg" alt="icon">
             <h3 class="text-center">Accomodation</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           </article>
           <article class="col">
-            <img class="mx-auto" src="photos/s2.jpg" alt="icon">
+            <img class="mx-auto" src="photos/restaurant/savoey-hotel-lahore-6D-2018-02-17-428.jpg" alt="icon">
             <h3 class="text-center">Meetings</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           </article>
           <article class="col">
-            <img class="mx-auto" src="photos/s3.jpg" alt="icon">
+            <img class="mx-auto" src="photos/restaurant/savoey-hotel-lahore-6D-2018-02-17-428.jpg" alt="icon">
             <h3 class="text-center">Dining</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           </article>

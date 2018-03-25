@@ -1,0 +1,48 @@
+% layout 'default';
+% title 'Welcome';
+
+    <!-- Page Content -->
+    <div class="container">
+
+
+      <div class="row">
+        <div class="col-lg-12">
+          <img class="img-fluid rounded-bottom" src="photos/covers/savoey-hotel-lahore-6D-2018-02-17-394.jpg">
+          <h1 class="mt-5">Rejuvenating Your Body, Mind and Soul</h1>
+          <p>The health club at Savoey presents you with a number of ways to unwind and rejuvenate. All the latest and world’s most sought after leisure and relaxation facilities are available with us to serve our guests with a variety of recreations.</p>
+
+          <p>These include:</p>
+          <ul>
+            <li>Gym, with all the up-to-the-minute equipment
+            <li>Swimming pool, allowing you to unwind under the sun
+            <li>Sauna, Jauzzi, Steam to soothe your senses
+            <li>Barber Shop, to perk up your looks
+          </ul>
+
+          <h1 class="mt-5">Gymnasium</h1>
+          <p>Having the latest workout machines under the supervision of professional coaches, the Gymnasium at Savoey provides you with just the right environment conducive to healthy lifestyle.</p>
+
+          <h1 class="mt-5">Swimming Pool</h1>
+          <p>The lavish pool at the Roof Top provides our guests with great recreation in a form of a cool soothing dip together with a beautiful landscape. You will simply love to spend some time in the pool under the open sky.</p>
+
+          <h1 class="mt-5">Sauna & Jacuzzi</h1>
+          <p>Our Sauna and Jacuzzi is certainly an ideal place to unwind and set aside your worries. After a long day of hectic professional or personal activities spending a while here is a treat for your body.</p>
+
+          <h1 class="mt-5">Barber Shop</h1>
+          <p>The Barber Shop provides you with a number of facilities such as fingers trim, hair cutting and styling.</p>
+
+          <h1 class="mt-5">Steam Bath</h1>
+          <p>To proffer utmost comfort to our valued guests, we also offer steam bath facility.
+          Other facilities are Savoey include Change Rooms as well as Lockers.</p>
+
+          <h1 class="mt-5">ACCESSORIES COUNTER</h1>
+          <p>Swimming accessories and kits like bathing costumes, goggles, ear plugs, floating tubes etc are available here at reasonable price tags.</p>
+
+        </div>
+      </div>
+
+
+
+   </div>
+
+

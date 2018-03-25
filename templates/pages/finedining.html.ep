@@ -1,0 +1,66 @@
+% layout 'default';
+% title 'Welcome';
+
+    <!-- Page Content -->
+    <div class="container">
+
+
+      <div class="row">
+        <div class="col-lg-12">
+          <img class="img-fluid rounded-bottom" src="photos/covers/dining.jpg">
+          <h1 class="mt-5">DINING is our specialization</h1>
+          <p class="lead">The dinning experience at Savoey is one of its own kinds with its endless array of scrumptious cuisines from the worl d renowned cooking traditions. The experienced chefs at Savoey quench your appetite with their unrivaled cookery offering a blend of local and international delights on your table.</p>
+
+          <p>Be it the local cuisines or family-style, continental, Italian or classical, Chinese or Thai, at Savoey you will get simply what is most satisfying for your taste buds and health.</p>
+
+          <h2 class="mt-5">Café Aroma</h2>
+          <p>One of the finest dinning opportunities in Lahore, Café Aroma brings to you all day dinning in an ambience which is perfect for eating and rejuvenating. It offers a vibrant setting and varied international cuisine experience in the best of environs. Under the direction and supervision of our renowned Executive Chef, you will get a chance to realize all the dreams of your taste buds in Café Aroma.</p>
+          <ul>
+            <li>Cuisine: international
+             <li>Dress code: smart casual
+             <li>Hours: Daily Dinning: 6:30 AM – 11:00 PM
+             <li>Buffet Breakfast: 6:30 AM – 10:30 AM
+             <li>Ala Carte Lunch: 12:00 PM – 03:00 PM
+             <li>Buffet Hi Tea: 04:00 PM – 07:00 PM
+             <li>Ala Carte Dinner: 07:30 PM – 11:30 PM
+             <li>Atmosphere: Vibrant
+             <li>Setting: All day fine dining restaurant
+             <li>Phone: (92) (42) 111 587777 ext. 724
+          </ul>
+
+          <h2 class="mt-5">Valvet Lounge</h2>
+          <p>Valvet Lounge, the Heart of the House, is the most astounding restaurant at Savoey which is a feast for the appetite offering a wide array of mouthwatering delights and light serving to rejuvenate you. Providing you with the 12th floor city view, you get the most outstanding assortment including:</p>
+
+          <ul>
+            <li>Live BBQ, snacks
+            <li>World famous Sushi
+            <li>Refreshing drinks
+            <li>Sheesha
+            <li>Tobacco delights
+          </ul>
+
+<p>You will love to spend sometime at Valvet Lounge where the fabulous foodstuff together with the pool view makes this place truly mesmerizing.</p>
+
+<ul>
+  <li>Cuisine:	Mocktails, Snacks and Drinks
+  <li>Dress Code:	Smart casual
+  <li>Hours:	Daily dining: 4:30 PM – 01:00 AM
+  <li>Atmosphere:	Casual
+  <li>Seating capacity: Indoor 40 persons / Outdoor 60- 70 persons
+  <li>Setting:	Roof Top
+  <li>Phone:	(92)(42) 111 587 777 ext:755
+</ul>
+
+
+          <h2 class="mt-5">In Room Dinning</h2>
+          <p>The in-room dinning experience at Savoey is also full of delights for our valued guest. Those who wish to enjoy great flavors in the privacy of their own rooms can order from our extensive menu which is luscious as well as wholesome. You can order for in-room dining 24/7 at our room service who will look after the needs of your appetite with utmost courtesy.</p>
+
+        </div>
+      </div>
+
+
+
+
+
+   </div>
+

@@ -16,6 +16,34 @@ sub rooms {
   $c->render(msg => 'Welcome to the Mojolicious real-time web framework!');
 }
 
+sub finedining {
+  my $c = shift;
+
+  # Render template "pages/home.html.ep" with message
+  $c->render(msg => 'Welcome to the Mojolicious real-time web framework!');
+}
+
+sub meetings {
+  my $c = shift;
+
+  # Render template "pages/home.html.ep" with message
+  $c->render(msg => 'Welcome to the Mojolicious real-time web framework!');
+}
+
+sub healthclub {
+  my $c = shift;
+
+  # Render template "pages/home.html.ep" with message
+  $c->render(msg => 'Welcome to the Mojolicious real-time web framework!');
+}
+
+sub reservation {
+  my $c = shift;
+
+  # Render template "pages/home.html.ep" with message
+  $c->render(msg => 'Welcome to the Mojolicious real-time web framework!');
+}
+
 sub contactus {
   my $c = shift;
 
@@ -24,5 +52,5 @@ sub contactus {
 }
 
 
-
 1;
+

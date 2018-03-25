@@ -1,0 +1,27 @@
+% layout 'default';
+% title 'Welcome';
+
+    <!-- Page Content -->
+    <div class="container">
+
+
+      <div class="row">
+        <div class="col-lg-12">
+          <img class="img-fluid rounded-bottom" src="photos/covers/savoey-hotel-lahore-6D-2018-02-17-428.jpg">
+          <p>With more than 3,000 square feet of event space devoted to 1 distinctive boardroom and the magnificent Ballroom on the 9th floor, you get an ideal venue to meet all your business events requirements in the form of Savoey Lahore. Despite the customized solutions and value added services, we remain the most economical hotel in the entire city, holding to our vision of providing affordable luxurious lifestyles to our valued guests.</p>
+
+          <h2>Value-added Services: Meetings and Events Services</h2>
+          <p>Regardless of the nature of your business event, Savoey event management services have the potential to cater for the diverse needs of our esteemed guests. Whether your event requires international participants to join in via satellite or you need training aids, our hotel event management services have the expertise to deal with all your requirements.</p>
+
+          <p>From cocktail receptions and coffee breaks to breakfast servings and dinner presentations, our proficient banquet team offers an extensive range of world-class gourmet selections to complement every event you wish to organize.</p>
+
+          <h2>Venues</h2>
+          <p>With over 3,000 square feet of event space, holding any event at Savoey makes an occasion most organized and perfect in every sense. Our Ballroom is a magnificent architecture which is truly the crowning glory of all our event spaces. Its ambience is truly breathtaking with superb interior and spacious area which enables you to accommodate up to 180 guests in the most comfortable way.</p>
+          <p>The six meter-high ceiling gives a luxurious touch to your gathering and makes it an ideal venue for corporate as well as private parties.</p>
+      </div>
+
+
+
+   </div>
+
+

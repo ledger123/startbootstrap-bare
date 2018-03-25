@@ -10,15 +10,51 @@
           <h1 class="mt-5">Suites and Rooms</h1>
 
           <p class="lead">Savoey Hotel is familiar with the pulse of different guests seeking comfort and facilities according to their varying needs and preferences. Our various room options are designed to ensure you find just the right one according to your requirement.</p>
+        </div>
+     </div>
 
-          <h1 class="mt-5">Room Types</h1>
-          <ul>
-            <li>Business Executive Suit
-              <li>Deluxe Executive Suit
-                <li>Deluxe Executive Rooms (Master and Twin Bed)
-          </ul>
-          <p>Replete with a world of facilities, luxuries and comforts, the Executive Rooms have all what you desire and more than you expect for your business or personal needs.</p>
+      <div class="row">
+        <div class="col-lg-6">
+          <h1 class="mt-5">Executive Master</h1>
+        </div>
+        <div class="col-lg-6">
+          <img class="img-fluid rounded" src="photos/roomtypes/executive-master-1.jpg">
+        </div>
+     </div>
 
+
+      <div class="row">
+        <div class="col-lg-6">
+          <img class="img-fluid rounded" src="photos/roomtypes/executive-junior-suite-twin-1.jpg">
+        </div>
+        <div class="col-lg-6">
+          <h1 class="mt-5">Executive Junior Suite Twin</h1>
+        </div>
+     </div>
+
+      <div class="row">
+        <div class="col-lg-6">
+          <h1 class="mt-5">Executive Suite</h1>
+        </div>
+        <div class="col-lg-6">
+          <img class="img-fluid rounded" src="photos/roomtypes/executive-suite-1.jpg">
+        </div>
+     </div>
+
+
+      <div class="row">
+        <div class="col-lg-6">
+          <img class="img-fluid rounded" src="photos/roomtypes/executive-twin-1.jpg">
+        </div>
+        <div class="col-lg-6">
+          <h1 class="mt-5">Executive Twin</h1>
+        </div>
+     </div>
+
+
+
+      <div class="row">
+        <div class="col-lg-12">
           <h1 class="mt-5">Special Features</h1>
           <p>All the Executive rooms are centrally air-conditioned. You can choice the bed of your own choice; King Size, Queen Size and Twin Bed Rooms are available. You also get other facilities in these rooms including Direct Dialing Facility, LCD Television with Live Satellite Entertainment as well as News Transmission. Each room here is equipped with Tea/coffee maker, Electronic Safe, Electronic Key Card operated door in addition to Mini Bar.</p>
 

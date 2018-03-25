@@ -105,26 +105,31 @@
       </div>
       <style>
        img {
-          width: 200px;
+          width: 400px;
           display: block;
        }
       </style>
       <section class="container" id="services">
         <div class="row">
           <article class="col">
-            <img class="mx-auto" src="photos/roomtypes/Executive-twin-6.jpg" alt="icon">
+            <img class="mx-auto" src="photos/slider/savoey-hotel-lahore-6D-2018-02-17-112.jpg" alt="icon">
             <h3 class="text-center">Accomodation</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <p>Savoey Hotel is familiar with the pulse of different guests seeking comfort and facilities according to their varying needs and preferences. Our various room options are designed to ensure you find just the right one according to your requirement.</p>
           </article>
           <article class="col">
             <img class="mx-auto" src="photos/restaurant/savoey-hotel-lahore-6D-2018-02-17-428.jpg" alt="icon">
             <h3 class="text-center">Meetings</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <p>Regardless of the nature of your business event, Savoey event management services have the potential to cater for the diverse needs of our esteemed guests.</p>
           </article>
           <article class="col">
-            <img class="mx-auto" src="photos/restaurant/savoey-hotel-lahore-6D-2018-02-17-428.jpg" alt="icon">
+            <img class="mx-auto" src="photos/selected/mughalmahal-20170106-6D-159.jpg" alt="icon">
             <h3 class="text-center">Dining</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <p>Be it the local cuisines or family-style, continental, Italian or classical, Chinese or Thai, at Savoey you will get simply what is most satisfying for your taste buds and health.</p>
+          </article>
+          <article class="col">
+            <img class="mx-auto" src="photos/selected/savoey-hotel-lahore-6D-2018-02-17-356.jpg" alt="icon">
+            <h3 class="text-center">Health Club</h3>
+            <p>The health club at Savoey presents you with a number of ways to unwind and rejuvenate. All the latest and world’s most sought after leisure and relaxation facilities are available with us to serve our guests with a variety of recreations.</p>
           </article>
         </div>
       </section>

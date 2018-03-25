@@ -73,8 +73,7 @@
 
                   <!--First column-->
                   <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
-                      <h6 class="text-uppercase mb-4 font-weight-bold">Company name</h6>
-                      <p>Here you can use rows and columns here to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                      <h6 class="text-uppercase mb-4 font-weight-bold">Savoey Hotel, Lahore</h6>
                   </div>
                   <!--/.First column-->
 
@@ -82,11 +81,11 @@
 
                   <!--Second column-->
                   <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
-                      <h6 class="text-uppercase mb-4 font-weight-bold">Products</h6>
-                      <p><a href="#!">MDBootstrap</a></p>
-                      <p><a href="#!">MDWordPress</a></p>
-                      <p><a href="#!">BrandFlow</a></p>
-                      <p><a href="#!">Bootstrap Angular</a></p>
+                      <h6 class="text-uppercase mb-4 font-weight-bold">Services</h6>
+                      <p><a href="#!">Rooms & Suites</a></p>
+                      <p><a href="#!">Dining</a></p>
+                      <p><a href="#!">Meetings</a></p>
+                      <p><a href="#!">Health Club</a></p>
                   </div>
                   <!--/.Second column-->
 
@@ -94,11 +93,8 @@
 
                   <!--Third column-->
                   <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
-                      <h6 class="text-uppercase mb-4 font-weight-bold">Useful links</h6>
-                      <p><a href="#!">Your Account</a></p>
-                      <p><a href="#!">Become an Affiliate</a></p>
-                      <p><a href="#!">Shipping Rates</a></p>
-                      <p><a href="#!">Help</a></p>
+                      <h6 class="text-uppercase mb-4 font-weight-bold">Location Map</h6>
+                      <p><iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3401.7687356189585!2d74.35489131584443!3d31.503039981375295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3919044b64178567%3A0x2849d7fd38679f6a!2sSavoey+Hotel!5e0!3m2!1sen!2s!4v1521970949372" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe></p>
                   </div>
                   <!--/.Third column-->
 
@@ -107,10 +103,10 @@
                   <!--Fourth column-->
                   <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
                       <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
-                      <p><i class="fa fa-home mr-3"></i> New York, NY 10012, US</p>
-                      <p><i class="fa fa-envelope mr-3"></i> info@gmail.com</p>
-                      <p><i class="fa fa-phone mr-3"></i> + 01 234 567 88</p>
-                      <p><i class="fa fa-print mr-3"></i> + 01 234 567 89</p>
+                      <p><i class="fa fa-home mr-3"></i> 237-A/3, Gurumanget Road, Gulberg, Lahore, Pakistan.</p>
+                      <p><i class="fa fa-envelope mr-3"></i> info@savoeyhotellahore.com</p>
+                      <p><i class="fa fa-phone mr-3"></i> + 92 42 111 587 777</p>
+                      <p><i class="fa fa-print mr-3"></i> + 92 423 577 3042</p>
                   </div>
                   <!--/.Fourth column-->
 
